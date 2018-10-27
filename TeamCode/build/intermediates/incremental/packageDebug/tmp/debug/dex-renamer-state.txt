@@ -1,0 +1,4 @@
+#Mon Oct 22 00:22:35 CST 2018
+base.0=D\:\\UserData\\Programming\\ftc_app-4.0\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
